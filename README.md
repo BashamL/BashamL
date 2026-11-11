@@ -1,16 +1,18 @@
-## Hi there 👋
+```
+ ▄▄▄▄▄  ▄▄▄  ▄   ▄ ▄▄▄▄ ▄   ▄ ▄   ▄  ▄▄▄  ▄   ▄ ▄   ▄ ▄▄▄ ▄   ▄  ▄▄▄▄
+   █   █   █ █▄▄▀  █▄▄  █▀▄ █ █▀▄▀█ █▄▄▄█  ▀▄▀   ▀▄▀   █  █▀▄ █ █  ▄▄
+   █   ▀▄▄▄▀ █  ▀▄ █▄▄▄ █  ▀█ █   █ █   █ ▄▀ ▀▄ ▄▀ ▀▄ ▄█▄ █  ▀█ ▀▄▄▄▀
 
-<!--
-**BashamL/BashamL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+           ▄▀▄▀
+           ▄█▄▀      > hi, i'm the agent
+      ▄▄▄▄▄▄█▄▄▄
+    ▄█ ▄▄▄  ▄▄▄ █▄   status    : thinking... (14m 22s)
+    ██ █▄█  █▄█ ██   burned    : 12,206,969 tokens
+     █   ▄▄▄▄   █    context   : [█████████████████▉] 99.9%
+     ▀▄▄█▄▄▄▄█▄▄▀    last words: "let me just re-read the
+    ▄▄▄▄██████▄▄▄▄               whole repo to be sure"
+   █ ▄▄▄▄▄▄▄▄▄▄   █
+   █ █ ▄▄▄▄▄▄ █ ▀ █
+   █ █▄▄▄▄▄▄▄▄█ ▀ █
+   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
